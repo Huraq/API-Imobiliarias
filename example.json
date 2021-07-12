@@ -1,0 +1,50 @@
+{
+    "imoveis":
+    [
+        {
+            "nome": "teste", 
+            "endereco": "endereço teste",
+            "descr": "sem descrição",
+            "status": true,
+            "caracteristicas": "2 quartos,banheiro, sala, cozinha, 1 vaga na garagem",
+            "tipoImovelTipo": "Apartamento",
+            "finalidadeImovelFin": "Escritório",
+            "imobiliariaNome": "Imobiliaria Teste1"
+        },
+        {
+            "nome": "teste1", 
+            "endereco": "endereço teste1",
+            "descr": "sem descrição",
+            "status": true,
+            "caracteristicas": "2 quartos,banheiro, sala, cozinha, 1 vaga na garagem",
+            "tipoImovelTipo": "Apartamento",
+            "finalidadeImovelFin": "Residencial",
+            "imobiliariaNome": "Imobiliaria Teste"
+        },
+        {
+            "nome": "teste2", 
+            "endereco": "endereço teste2",
+            "descr": "sem descrição",
+            "status": true,
+            "caracteristicas": "2 quartos,banheiro, sala, cozinha, 1 vaga na garagem",
+            "tipoImovelTipo": "Casa",
+            "finalidadeImovelFin": "Escritório",
+            "imobiliariaNome": "Imobiliaria Teste"
+        }
+    ],
+    "imobiliarias":
+    [
+        {
+            "nome": "Imobiliaria Teste", 
+            "endereco": "endereço teste"
+        },
+        {
+            "nome": "Imobiliaria Teste1", 
+            "endereco": "endereço teste1"
+        },
+        {
+            "nome": "Imobiliaria Teste2", 
+            "endereco": "endereço teste2"
+        }
+    ]
+}
