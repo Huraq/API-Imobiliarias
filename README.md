@@ -63,8 +63,6 @@ python3 manage.py db upgrade
 ## Extras
 ------
 
-Eu hospedei o projeto no heroku, então a API está ligada, caso queira testar é só clicar [AQUI](https://register-control-senior-test.herokuapp.com)
-Eu também deixei um arquivo "exemplo.json", la eu deixei exemplos de dados que os endpoints de criação recebem, lebrando que eles esperam um json com 1 objeto apenas ou 1 array de objetos com nome "imoveis" ou "imobiliarias".
 
 Endpoints:
 ```Python
